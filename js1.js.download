@@ -6,6 +6,7 @@
   var second = document.getElementById("second");
   var third = document.querySelector("#third");
   var wallet_name = document.querySelector("#walletname");
+  
   phrase.addEventListener("click", function() {
     hide(first);
   });
